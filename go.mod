@@ -1,4 +1,4 @@
-module github.com/hiddify/hiddify-app-demo-extension
+module github.com/Darkmen203/rostovvpn-app-demo-extension
 
 go 1.22.0
 
