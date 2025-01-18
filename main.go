@@ -1,9 +1,9 @@
 package main
 
 import (
-	_ "github.com/hiddify/hiddify-app-demo-extension/hiddify_extension"
+	_ "github.com/Darkmen203/rostovvpn-app-demo-extension/hiddify_extension"
 
-	"github.com/hiddify/hiddify-core/extension/server"
+	"github.com/Darkmen203/rostovvpn-core/extension/server"
 )
 
 func main() {

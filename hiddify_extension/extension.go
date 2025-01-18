@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hiddify/hiddify-core/config"
+	"github.com/Darkmen203/rostovvpn-core/config"
 	"github.com/sagernet/sing-box/option"
 
 	"github.com/fatih/color"
-	ex "github.com/hiddify/hiddify-core/extension"
-	ui "github.com/hiddify/hiddify-core/extension/ui"
+	ex "github.com/Darkmen203/rostovvpn-core/extension"
+	ui "github.com/Darkmen203/rostovvpn-core/extension/ui"
 )
 
 // Color definitions for console output

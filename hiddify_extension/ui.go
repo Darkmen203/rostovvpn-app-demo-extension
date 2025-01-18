@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	ui "github.com/hiddify/hiddify-core/extension/ui"
+	ui "github.com/Darkmen203/rostovvpn-core/extension/ui"
 )
 
 // Field name constants for easy reference, use similar name to the json key
